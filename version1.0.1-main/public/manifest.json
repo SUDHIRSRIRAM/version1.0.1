@@ -1,0 +1,10 @@
+{
+  "name": "Image Background Remover",
+  "short_name": "BG Remover",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "description": "Remove backgrounds from images using AI.",
+  "icons": []
+}
